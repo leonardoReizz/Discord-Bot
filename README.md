@@ -1,9 +1,9 @@
 # Discord-Bot
-Tecnologias Utilizadas
+###Tecnologias Utilizadas
 
-Javascript
-Mongodb via mongoose
-Discord API v9
+Javascript  <br/>
+Mongodb via mongoose <br/>
+Discord API v9 <br/>
 
 ## Comandos
 
