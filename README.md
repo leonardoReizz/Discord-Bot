@@ -2,7 +2,7 @@
 ### Tecnologias Utilizadas
 
 Javascript  <br/>
-Mongodb via mongoose <br/>
+Mongodb <br/>
 Discord API v9 <br/>
 
 ## Comandos
